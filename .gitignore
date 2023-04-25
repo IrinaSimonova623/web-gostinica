@@ -3,3 +3,33 @@
 
 # Ada Library Information
 *.ali
+# Создано https://www.toptal.com/developers/gitignore/api/windows
+# Редактировать в https://www.toptal.com/developers/gitignore?templates=windows
+
+### Окна ###
+# Файлы кэша миниатюр Windows
+Большие пальцы.db
+Thumbs.db:шифруемый 
+большие пальцы.db 
+ehthumbs_vista.db
+
+# Файл дампа 
+*.stackdump -накопитель
+
+# Файл конфигурации папки
+[Dd]эсктоп.ini
+
+# Корзина, используемая в общих файловых ресурсах
+$RECYCLE.КОРЗИНА/
+
+# Файлы установщика Windows 
+*.кабина
+*.msi
+*.msix 
+*.мсм
+*.msp
+
+# Ярлыки Windows 
+*.lnk
+
+# Конец https://www.toptal.com/developers/gitignore/api/windows
